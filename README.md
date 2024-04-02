@@ -13,18 +13,19 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/elamraniadnane1/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;" />
   </a>
   <a href="https://twitter.com/elamraniadnane1" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" style="width: 40px; height: 40px;" />
   </a>
   <a href="mailto:elamraniadnane1@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Mail-me-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" alt="Email" />
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" style="width: 40px; height: 40px;" />
   </a>
   <a href="#" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/1e449fbf198ca38d7c142083e7fbecc3764f8f11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616b61736867703039267374796c653d666c61742d737175617265266c6162656c3d564953495453" alt="Visits" data-canonical-src="https://komarev.com/ghpvc/?username=akashgp09&amp;style=flat-square&amp;label=VISITS" style="max-width:100%;" height="28" />
+    <img src="https://img.icons8.com/color/48/000000/visible.png" alt="Visits" style="width: 40px; height: 40px;" />
   </a>
 </p>
+
 
 
 <p align="center">
